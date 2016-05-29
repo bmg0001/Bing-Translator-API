@@ -1,0 +1,6 @@
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\bin\Debug\Translator API.dll
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\bin\Debug\Translator API.pdb
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\obj\Debug\Interop.WinHttp.dll
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\obj\Debug\Translator API.csproj.ResolveComReference.cache
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\obj\Debug\Translator API.dll
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\Translator API\obj\Debug\Translator API.pdb

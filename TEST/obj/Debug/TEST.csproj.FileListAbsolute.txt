@@ -1,0 +1,8 @@
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\bin\Debug\TEST.exe.config
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\bin\Debug\TEST.exe
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\bin\Debug\TEST.pdb
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\obj\Debug\TEST.exe
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\obj\Debug\TEST.pdb
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\bin\Debug\Translator API.dll
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\bin\Debug\Translator API.pdb
+C:\Users\bmg0001\Documents\Visual Studio 2015\Projects\Translator API\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
